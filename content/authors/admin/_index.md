@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mail to:shuangwang@gzucm.edu.cn'
+    url: 'mailto:shuangwang@gzucm.edu.cn'
     label: E-mail Me
   - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Shuang-Wang-29?ev=hdr_xprf
