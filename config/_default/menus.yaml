@@ -4,27 +4,27 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 首页
     url: /
     weight: 10
-  - name: Research
+  - name: 科研
     url: /#Research
     weight: 11
-  - name: Publication
+  - name: 发表论文
     url: /#Papers
     weight: 13
-  - name: Projects
+  - name: 项目
     url: projects/
     weight: 14
-  - name: Experience
+  - name: 工作经历
     url: experience/
     weight: 12
-  - name: Teaching
+  - name: 教学
     url: teaching/
     weight: 40
-  - name: News
+  - name: 新闻
     url: /#news
     weight: 45
-  - name: Contact
+  - name: 联系我们
     url: /#Contact
     weight: 50
