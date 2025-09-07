@@ -36,9 +36,9 @@ hugoblox:
 
 links:
   - type: pdf
-    url: ""
+    url: "https://www.nature.com/articles/s41467-024-49527-z"
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: https://github.com/Wang2004w
   - type: dataset
     url: ""
   - type: poster
