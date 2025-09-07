@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Shuang WANG
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Shuang
+last_name: Wang
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,46 +23,46 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Chinese Medicine Guangdong Laboratory, Hengqin, China
+    url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:shuangwang@gzucm.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Shuang-Wang-29?ev=hdr_xprf
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Wang2004w
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: ""
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: ""
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-3879-9519
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - transcription
+  - single-molecule biology
+  - Chinese Medicine
+
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Condensed Matter Physics (Single-molecule biophysics)
+    institution: Chinese Academy of Sciences
+    date_start: 2008-09-01
+    date_end: 2014-06-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      text: ''
+      url: ''
   - area: MS Computer Science
     institution: Carnegie Mellon University
     date_start: 2013-09-01
@@ -71,10 +71,10 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BS Materials Physics
+    institution: Jilin University
+    date_start: 2004-09-01
+    date_end: 2008-05-31
     summary: |
       GPA: 3.9/4.0
 
