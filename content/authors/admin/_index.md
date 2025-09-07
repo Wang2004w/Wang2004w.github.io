@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuang
+title: 王爽（Shuang WANG）
 
 # Name pronunciation (optional)
 name_pronunciation: ''
