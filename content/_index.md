@@ -31,20 +31,20 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 我的科研'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        现阶段正在开展的研究内容：
+（1）Sen1及其同源蛋白质Senataxin（SETX）介导的转录终止机制的研究，运用单分子磁镊和单分子荧光示踪方法，实时追踪Sen1/SETX与RNA聚合酶的动态相互作用过程，确定转录调控过程中关键复合物功能组分的空间分布及随时间演变的催化机理。
+（2）疾病相关转录因子与RNA聚合酶的相互作用而调节转录动态过程的机制；内源性转录终止机制的研究，通过追踪RNA的动力学行为来揭示内源性转录终止机制；rho介导的转录终止机制的研究，借助单分子磁镊操控方法，来实时追踪rho催化转录终止的化学反应过程，揭示相关终止机制。
+（3）基于现有的生物大分子之间的相互作用工作基础，借助应用单分子精密技术，开展中药活性成分精准筛选和干预方面的研究。
+欢迎感兴趣的联系合作！ 😃
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表性论文
       filters:
         folders:
           - publication
@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Publications
+      title: 发表论文
       text: ''
       filters:
         folders:
@@ -65,7 +65,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
+      title: 科研项目
       filters:
         folders:
           - project
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: 教学
       filters:
         folders:
           - teaching
@@ -84,7 +84,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 新闻
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
