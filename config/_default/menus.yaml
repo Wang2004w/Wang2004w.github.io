@@ -13,7 +13,7 @@ main:
   - name: 发表论文
     url: /#Papers
     weight: 13
-  - name: 项目
+  - name: 科研项目
     url: projects/
     weight: 14
   - name: 工作经历
