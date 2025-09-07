@@ -1,7 +1,7 @@
 ---
 title: "Single-molecule reconstruction of eukaryotic factor-dependent transcription termination"
 authors:
-- "Y. Xiong"
+- "Y. Xiong, W. Han"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
