@@ -56,9 +56,6 @@ education:
     date_end: 2014-06-30
     summary: |2-
       ''
-    button:
-      text: ''
-      url: ''
   - area: BS Material Physics
     institution: Jilin University
     date_start: 2004-09-01
