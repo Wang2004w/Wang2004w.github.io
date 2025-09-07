@@ -33,8 +33,7 @@ sections:
     content:
       title: '📚 我的科研'
       subtitle: ''
-      text: |-
-''
+      text: ''
     design:
       columns: '1'
   - block: collection
