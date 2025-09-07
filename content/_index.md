@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
@@ -63,12 +63,22 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: projects
     content:
-      title: Recent & Upcoming Talks
+      title: Projects
       filters:
         folders:
-          - event
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
     design:
       view: card
   - block: collection
