@@ -5,7 +5,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024-06-15T00:00:00Z"
+date: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -36,19 +36,7 @@ links:
   - type: pdf
     url: "https://www.nature.com/articles/s41467-024-49527-z"
   - type: code
-    url: https://github.com/Wang2004w
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: ""
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://github.com/Wang2004w/Code4DataAnalysis
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,22 +44,45 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---
+---
+title: "Single-molecule characterization of Sen1 translocation properties provides insights into eukaryotic factor-dependent transcription termination"
+authors:
+- "S. Wang, Z. Han, and T. R. Strick"
+# author_notes:
+# - "Equal contribution"
+date: ""
 
+# Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Nucleic Acids Research 2024;52(6):3249-3261"
+publication_short: ""
+
+abstract: ""
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+links:
+  - type: pdf
+    url: "https://academic.oup.com/nar/article/52/6/3249/7585670?login=false"
+  - type: code
+    url: https://github.com/Wang2004w/Code4DataAnalysis
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
