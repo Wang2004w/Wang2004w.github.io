@@ -1,10 +1,22 @@
 ---
 title: "Single-molecule reconstruction of eukaryotic factor-dependent transcription termination"
 authors:
-- "Y. Xiong, W. Han"
+- "Y. Xiong, W. Han, C. Xu, J. Shi"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+authors:
+- "L. Wang, T. Jin, Q. Jia, Y. Lu, S. Hu, S.-X. Dou"
+authors:
+- "W. Lin, T. R. Strick, S. Wang"
+author_notes:
+- "Corresponding authors"
+- "Corresponding authors"
+- "Corresponding authors"
+authors:
+- "M. Li"
 date: "2024-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
