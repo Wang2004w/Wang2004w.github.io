@@ -54,8 +54,8 @@ education:
     institution: Chinese Academy of Sciences
     date_start: 2008-09-01
     date_end: 2014-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    summary: |2-
+      ''
     button:
       text: ''
       url: ''
@@ -64,7 +64,7 @@ education:
     date_start: 2004-09-01
     date_end: 2008-05-31
     summary: |
-
+      ''
 work:
   - position: Professor
     company_name: Chinese Medicine Guangdong Laboratory
@@ -85,21 +85,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
+
 
 languages:
   - name: Chinese
@@ -112,13 +98,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: ''
-    url: ''
-    date: ''
-    awarder: ''
-    icon: ''
-    summary: |
-      ''
 ---
 
 Statement for this guy's research.
