@@ -1,7 +1,7 @@
 ---
 title: "Single-molecule reconstruction of eukaryotic factor-dependent transcription termination"
 authors:
-"Y. Xiong"#, "W. Han"#, "C. Xu"#, "J. Shi"#, "L. Wang", "T. Jin", "Q. Jia", "Y. Lu", "S. Hu", "S.-X. Dou", "W. Lin"*, "T. R. Strick"*, "S. Wang"*, "M. Li"
+"Y. Xiong", "W. Han", "C. Xu", "J. Shi", "L. Wang", "T. Jin", "Q. Jia", "Y. Lu", "S. Hu", "S.-X. Dou", "W. Lin", "T. R. Strick", "S. Wang", "M. Li"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
