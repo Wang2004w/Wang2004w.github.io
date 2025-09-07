@@ -45,7 +45,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
----
 title: "Single-molecule characterization of Sen1 translocation properties provides insights into eukaryotic factor-dependent transcription termination"
 authors:
 - "S. Wang, Z. Han, and T. R. Strick"
