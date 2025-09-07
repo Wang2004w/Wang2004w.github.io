@@ -10,8 +10,8 @@ main:
   - name: Research
     url: /#Research
     weight: 11
-  - name: Publications
-    url: /#Publications
+  - name: Publication
+    url: /#Papers
     weight: 13
   - name: Projects
     url: projects/
