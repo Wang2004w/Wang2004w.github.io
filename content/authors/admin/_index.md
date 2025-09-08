@@ -44,13 +44,13 @@ profiles:
     url: https://orcid.org/0000-0003-3879-9519
 
 
-interest:
+Research interests:
   - 转录调控（transcriptional regulation）
   - 单分子生物物理学（single-molecule biophysics）
   - 中医药（Chinese Medicine）
 
 
-education:
+Education:
   - area: PhD 凝聚态物物
     institution: 中国科学院大学（中国科学院物理研究所）
     date_start: 2008-09-01
@@ -63,7 +63,7 @@ education:
     date_end: 2008-05-31
     summary: |
       ''
-work:
+Work:
   - position: 研究员
     company_name: 中医药广东省实验室
     company_url: ''
