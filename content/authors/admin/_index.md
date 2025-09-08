@@ -89,7 +89,7 @@ languages:
   - name: 汉语
     percent: 100
   - name: 英语
-    percent: 60
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
