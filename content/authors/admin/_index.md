@@ -44,7 +44,7 @@ profiles:
     url: https://orcid.org/0000-0003-3879-9519
 
 
-interest:
+interests:
   - 转录调控（transcriptional regulation）
   - 单分子生物物理学（single-molecule biophysics）
   - 中医药（Chinese Medicine）
