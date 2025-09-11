@@ -31,7 +31,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 我的科研'
+      title: '📚 科研内容'
       subtitle: ''
       text: '现阶段正在开展的研究内容:
 （1）Sen1及其同源蛋白质Senataxin（SETX）介导的转录终止机制的研究，运用单分子磁镊和单分子荧光示踪方法，实时追踪Sen1/SETX与RNA聚合酶的动态相互作用过程，确定转录调控过程中关键复合物功能组分的空间分布及随时间演变的催化机理。
