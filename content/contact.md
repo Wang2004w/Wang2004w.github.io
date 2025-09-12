@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 联系我们
+      title: ''
       text: ''
       filters:
         folders:
