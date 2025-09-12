@@ -5,7 +5,7 @@ links:
   - type: site
     url: ''
 tags:
-  - Hugo
+  - SMT
   - HugoBlox
   - Markdown
 ---
