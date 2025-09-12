@@ -11,6 +11,3 @@ tags:
 ---
 
 联系我们：
-shuangwangATgzucm.edu.cn
-
-<!--more-->
