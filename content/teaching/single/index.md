@@ -4,8 +4,7 @@ summary: ''
 date: 2025-9-12
 type: docs
 math: false
-tags:
-  - ''
+tags: ''
 image:
   caption: ''
 ---
