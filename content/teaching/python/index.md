@@ -1,11 +1,11 @@
 ---
-title: Learn Chinese Medicine
-summary: ''
+title: 学习中医药
 date: 2025-09-12
-type: docs
-math: false
-tags: ''
-image: ''
+links:
+  - type: site
+    url: ''
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
 ---
-
-
