@@ -1,11 +1,12 @@
 ---
-title: Learn single molecule biology
-summary: ''
-date: 2025-9-12
-type: docs
-math: false
-tags: ''
-image: ''
+title: 学习单分子技术
+date: 2025-09-12
+links:
+  - type: site
+    url: ''
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
 ---
-
 
