@@ -1,5 +1,5 @@
 ---
-title: Learn single-molecule biology
+title: Learn single molecule biology
 summary: ''
 date: 2025-9-12
 type: docs
