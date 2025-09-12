@@ -68,7 +68,7 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
     columns: 2
@@ -111,16 +111,14 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
-    id: Contact
+    id: contact
     content:
       title: 联系我们
       filters:
         folders:
           - contact
-        featured_only: true
     design:
-      view: article-grid
-    columns: 1
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
