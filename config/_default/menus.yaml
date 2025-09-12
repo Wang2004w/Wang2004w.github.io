@@ -26,5 +26,5 @@ main:
     url: /#news
     weight: 45
   - name: 联系我们
-    url: Contact/
+    url: contact/
     weight: 50
