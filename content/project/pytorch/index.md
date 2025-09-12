@@ -1,15 +1,14 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: 已结题项目
+date: 2024-12-31
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: ''
 tags:
   - Hugo
   - HugoBlox
   - Markdown
 ---
-
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+<img width="2699" height="311" alt="image" src="https://github.com/user-attachments/assets/b252025a-180e-4c22-a47e-9c8119378099" />
 
 <!--more-->
