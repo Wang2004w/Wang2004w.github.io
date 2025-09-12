@@ -5,7 +5,7 @@ date: 2025-09-12
 type: docs
 math: false
 tags:
-  - Chinese Medicine
+  - ''
 image:
   caption: ''
 ---
