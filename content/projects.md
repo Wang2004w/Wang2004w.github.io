@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 我们的科研项目
+      title: 科研项目
       text: ''
       filters:
         folders:
