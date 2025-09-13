@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Welcome new members!
+summary: Happy to have you in our lab!
+date: 2025-09-12
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -14,7 +14,7 @@ authors:
 
 tags:
   - Academic
-  - Hugo Blox
+  - sw
   - Markdown
 
 content_meta:
