@@ -51,7 +51,7 @@ interests:
 
 
 education:
-  - area: PhD 凝聚态物物
+  - area: PhD 凝聚态物理
     institution: 中国科学院大学（中国科学院物理研究所）
     date_start: 2008-09-01
     date_end: 2014-06-30
@@ -70,7 +70,7 @@ work:
     company_logo: ''
     date_start: 2025-03-01
     date_end: ''
-    summary: |2-
+    summary: |4-
       发展应用多学科交叉技术探索中医药科学内涵。
   - position: 副研究员
     company_name: 中国科学院物理研究所
@@ -78,8 +78,24 @@ work:
     company_logo: ''
     date_start: 2019-12-26
     date_end: 2025-02-28
-    summary: |
+    summary: |3-
       发展应用单分子生物物理技术研究基因转录动力学。
+  - position: 博士后
+    company_name: 巴黎高等师范学院
+    company_url: 'https://www.ens.psl.eu/'
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2019-12-26
+    summary: |2-
+      应用单分子生物物理技术研究真核基因转录动力学。
+  - position: 博士后
+    company_name: 法国雅克莫诺研究所
+    company_url: 'https://www.ijm.fr/'
+    company_logo: ''
+    date_start: 2015-04-20
+    date_end: 2017-12-31
+    summary: |
+      应用单分子生物物理技术研究真核基因转录动力学。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
