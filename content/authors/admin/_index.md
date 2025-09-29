@@ -70,7 +70,7 @@ work:
     company_logo: ''
     date_start: 2025-03-01
     date_end: ''
-    summary: |4-
+    summary: |2-
       发展应用多学科交叉技术探索中医药科学内涵。
   - position: 副研究员
     company_name: 中国科学院物理研究所
