@@ -22,6 +22,7 @@ sections:
         about: 个人简介
         education: 教育经历
         interests: 科研兴趣
+        text_color_light: true
     design:
       background:
         image:
