@@ -71,7 +71,7 @@ work:
     date_start: 2025-03-01
     date_end: ''
     summary: |2-
-      发展应用多学科交叉技术探索中医药科学内涵。
+      发展应用多学科交叉技术探索基因转录调控机制和中医药科学内涵。
   - position: 副研究员
     company_name: 中国科学院物理研究所
     company_url: 'https://www.iop.cas.cn/'
