@@ -78,7 +78,7 @@ work:
     company_logo: ''
     date_start: 2019-12-26
     date_end: 2025-02-28
-    summary: |3-
+    summary: |
       发展应用单分子生物物理技术研究基因转录动力学。
   - position: 博士后
     company_name: 巴黎高等师范学院
@@ -86,7 +86,7 @@ work:
     company_logo: ''
     date_start: 2018-01-01
     date_end: 2019-12-26
-    summary: |2-
+    summary: |
       应用单分子生物物理技术研究真核基因转录动力学。
   - position: 博士后
     company_name: 法国雅克莫诺研究所
