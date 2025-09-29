@@ -24,7 +24,7 @@ sections:
         interests: 科研兴趣
     design:
       # Apply a gradient background
-      color: blue
+      css_class: bg-primary-700
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
