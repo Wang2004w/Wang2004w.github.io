@@ -24,7 +24,7 @@ sections:
         interests: 科研兴趣
     design:
       background:
-            image:
+          image:
           # Name of image in `assets/media/`.
           filename: background.jpg
           # Apply image filters?
