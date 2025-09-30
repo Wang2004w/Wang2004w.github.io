@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: 科研
-    url: Research/
+    url: research/
     weight: 11
   - name: 发表论文
-    url: Papers/
+    url: papers/
     weight: 13
   - name: 科研项目
     url: projects/
