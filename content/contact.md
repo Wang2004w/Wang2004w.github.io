@@ -13,7 +13,6 @@ sections:
     content:
       title: ''
       text: ''
-      url: download/博士后招聘v2.pdf
       filters:
         folders:
           - contact
