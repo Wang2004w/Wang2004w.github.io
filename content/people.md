@@ -15,7 +15,7 @@ sections:
       text: ''
       filters:
         folders:
-          - PI
+          - people
     design:
       view: article-grid
       fill_image: false
