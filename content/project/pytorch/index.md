@@ -4,6 +4,10 @@ date: 2024-12-31
 links:
   - type: site
     url: ''
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  
 tags:
   - Sw
   - HugoBlox
