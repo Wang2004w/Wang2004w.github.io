@@ -55,16 +55,6 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 代表性论文
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      view: article-grid
-    columns: 2
-  - block: collection
-    content:
       title: 发表论文
       text: ''
       filters:
