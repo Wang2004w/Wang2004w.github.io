@@ -65,21 +65,21 @@ education:
       ''
 work:
   - position: 研究员
-    company_name: 中医药广东省实验室
+    company_name: 中医药广东省实验室，中医诊疗优势与作用原理研究中心
     company_url: ''
     company_logo: ''
     date_start: 2025-03-01
     date_end: ''
     summary: |2-
-      发展应用多学科交叉技术探索基因转录调控机制和中医药科学内涵。
+      ''
   - position: 副研究员
-    company_name: 中国科学院物理研究所
+    company_name: 中国科学院物理研究所，软物质物理实验室
     company_url: 'https://www.iop.cas.cn/'
     company_logo: ''
     date_start: 2019-12-26
     date_end: 2025-02-28
     summary: |
-      发展应用单分子生物物理技术研究基因转录动力学。
+      ''
   - position: 博士后
     company_name: 巴黎高等师范学院
     company_url: 'https://www.ens.psl.eu/'
@@ -87,7 +87,7 @@ work:
     date_start: 2018-01-01
     date_end: 2019-12-26
     summary: |
-      应用单分子生物物理技术研究真核基因转录动力学。
+      合作导师Terence Strick教授。
   - position: 博士后
     company_name: 法国雅克莫诺研究所
     company_url: 'https://www.ijm.fr/'
@@ -95,23 +95,7 @@ work:
     date_start: 2015-04-20
     date_end: 2017-12-31
     summary: |
-      应用单分子生物物理技术研究真核基因转录动力学。
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-
-
-languages:
-  - name: 汉语
-    percent: 100
-  - name: 英语
-    percent: 70
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+      合作导师Terence Strick教授。
 ---
 
 目前，主要从事基因转录调控的单分子动态过程研究，聚焦于转录调控这一生命科学领域的基本科学问题，发展和应用单分子磁镊操控和荧光示踪方法，通过追踪转录关键蛋白质—RNA聚合酶的个体运动行为，及与DNA、RNA或转录因子的相互作用关系，探索转录调控过程的分子机理。
