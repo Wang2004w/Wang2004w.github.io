@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 发表论文
+      title: ''
       text: ''
       filters:
         folders:
