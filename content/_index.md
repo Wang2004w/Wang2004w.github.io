@@ -24,6 +24,8 @@ sections:
         interests: 科研兴趣
     design:
       background:
+        color: '#34495e'
+        text_color_light: true
         image:
            # Name of image in `assets/media/`.
            filename: background.jpg
@@ -38,7 +40,7 @@ sections:
            # Use a fun parallax-like fixed background effect on desktop? true/false
            parallax: true
            # Text color (true=light, false=dark, or remove for the dynamic theme color).
-           text_color_light: true
+           # text_color_light: true
   - block: markdown
     content:
       title: '📚 科研内容'
