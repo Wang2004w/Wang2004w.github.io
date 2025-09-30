@@ -15,7 +15,7 @@ sections:
       text: ''
       filters:
         folders:
-          - authors
+          - research
     design:
       fill_image: false
       columns: 1
