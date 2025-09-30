@@ -8,10 +8,10 @@ main:
     url: /
     weight: 10
   - name: 科研
-    url: /#Research
+    url: Research/
     weight: 11
   - name: 发表论文
-    url: /#Papers
+    url: Papers/
     weight: 13
   - name: 科研项目
     url: projects/
@@ -23,7 +23,7 @@ main:
     url: teaching/
     weight: 40
   - name: 新闻
-    url: /#news
+    url: news/
     weight: 45
   - name: 联系我们
     url: contact/
