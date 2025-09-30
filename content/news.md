@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 新闻
+      title: ''
       text: ''
       filters:
         folders:
