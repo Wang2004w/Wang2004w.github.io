@@ -36,7 +36,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: ''
+      title: '发表论文'
       text: ''
       filters:
         folders:
@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: ''
+      title: '科研项目'
       filters:
         folders:
           - project
@@ -58,7 +58,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: ''
+      title: '新闻动态'
       filters:
         folders:
           - news
@@ -69,7 +69,7 @@ sections:
   - block: collection
     id: contact
     content:
-      title: ''
+      title: '招生招聘'
       filters:
         folders:
           - contact
