@@ -13,9 +13,7 @@ sections:
     content:
       title: ''
       text: ''
-      button:
-        text: Download CV
-        url: download/博士后招聘v2.pdf
+      url: download/博士后招聘v2.pdf
       filters:
         folders:
           - contact
