@@ -62,7 +62,7 @@ sections:
         featured_only: true
     design:
       view: citation
-      columns: 2
+    columns: 2
   - block: collection
     content:
       title: 发表论文
