@@ -92,7 +92,7 @@ sections:
         folders:
           - teaching
     design:
-      # view: card
+       view: card
   - block: collection
     id: news
     content:
