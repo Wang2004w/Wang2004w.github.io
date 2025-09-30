@@ -1,5 +1,5 @@
 ---
-title: 科研内容
+title: ''
 date: 2025-09-12
 links:
   - type: site
