@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 结题项目
 date: 2024-12-31
 links:
   - type: site
