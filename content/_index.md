@@ -81,8 +81,7 @@ sections:
         folders:
           - project
         featured_only: false
-    design:
-      view: article-grid
+    
     columns: 2
   - block: collection
     id: teaching
