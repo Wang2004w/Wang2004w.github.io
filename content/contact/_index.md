@@ -1,7 +1,6 @@
 ---
 title: ''
 date: 2025-09-12
-type: landing
 
 links:
   - type: site
