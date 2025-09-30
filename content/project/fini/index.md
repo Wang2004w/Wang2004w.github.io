@@ -1,5 +1,5 @@
 ---
-title: 已结题项目
+title: ''
 date: 2024-12-31
 links:
   - type: site
@@ -9,7 +9,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
   
 tags:
-  - Sw
+  - sw
   - HugoBlox
   - Markdown
 ---
