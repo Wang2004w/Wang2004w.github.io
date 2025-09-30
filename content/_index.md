@@ -51,7 +51,7 @@ sections:
 （3）基于现有的生物大分子之间的相互作用工作基础，借助应用单分子精密技术，开展中药活性成分精准筛选和干预方面的研究。
 欢迎感兴趣的联系合作！ 😃'
     design:
-      columns: '1'
+      columns: 1
   - block: collection
     id: papers
     content:
