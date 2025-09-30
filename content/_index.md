@@ -36,7 +36,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 发表论文
+      title: ''
       text: ''
       filters:
         folders:
@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: 科研项目
+      title: ''
       filters:
         folders:
           - project
@@ -56,19 +56,9 @@ sections:
       view: article-grid
     columns: 2
   - block: collection
-    id: teaching
-    content:
-      title: 教学
-      filters:
-        folders:
-          - teaching
-    design:
-       view: article-grid
-    columns: 2
-  - block: collection
     id: news
     content:
-      title: 新闻
+      title: ''
       filters:
         folders:
           - post
@@ -79,7 +69,7 @@ sections:
   - block: collection
     id: contact
     content:
-      title: 联系我们
+      title: ''
       filters:
         folders:
           - contact
