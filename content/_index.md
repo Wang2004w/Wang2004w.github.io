@@ -61,7 +61,7 @@ sections:
       title: ''
       filters:
         folders:
-          - post
+          - news
     design:
       # Choose a layout view
       view: card
