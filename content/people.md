@@ -12,5 +12,7 @@ sections:
       filters:
         folders:
           - people
+    design:
+      view: showcase
 
 ---
