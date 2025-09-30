@@ -15,9 +15,8 @@ sections:
       text: ''
       filters:
         folders:
-          - people/PI
+          - people
     design:
-      view: article-grid
       fill_image: false
       columns: 1
       show_date: false
