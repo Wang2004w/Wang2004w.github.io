@@ -15,7 +15,7 @@ sections:
       text: ''
       filters:
         folders:
-          - post
+          - news
     design:
       fill_image: false
       columns: 1
