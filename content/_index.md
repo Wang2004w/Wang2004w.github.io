@@ -80,7 +80,7 @@ sections:
         folders:
           - contact
     design:
-      view:article-grid
+      view: 🗃️card
       columns: 1
   
 ---
