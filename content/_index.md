@@ -72,7 +72,7 @@ sections:
       # Choose a layout view
       view: card
       columns: 1
-  - block: Markdown
+  - block: collection
     id: contact
     content:
       title: '招生招聘'
