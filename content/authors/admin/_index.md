@@ -47,7 +47,7 @@ profiles:
 interests:
   - 转录调控（transcriptional regulation）
   - 单分子生物物理学（single-molecule biophysics）
-  - 中医药（Chinese Medicine）
+  - 中药分子（Chinese Medicine）
 
 
 education:
@@ -98,4 +98,4 @@ work:
       合作导师Terence Strick教授。
 ---
 
-围绕基因转录调控这一生命科学领域的基本科学问题，发展和应用多学科交叉研究方法，包括：单分子磁镊操控和荧光示踪方法等，通过追踪转录关键蛋白质—RNA聚合酶的个体运动行为，及与DNA、RNA或转录因子的相互作用关系，探索基因转录调控的动态分子机制。
+围绕基因转录调控这一生命科学领域的基本问题，发展并应用单分子磁镊操控和荧光成像等生物物理学技术，通过系统解析RNA聚合酶的动态行为，及与转录因子、药物分子的精密相互作用过程，探索基因转录调控过程的基本规律。
