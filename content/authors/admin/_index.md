@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王 爽（Shuang WANG）
+title: 王爽（Shuang WANG）
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -27,7 +27,7 @@ role: 研究员
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 中医药广东省实验室，横琴，中国
+  - name: 中医药广东省实验室（横琴实验室），横琴，中国
     url: ""
 
 # Social network links
