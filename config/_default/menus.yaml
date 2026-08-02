@@ -21,7 +21,7 @@ main:
     weight: 15
   - name: News
     url: news/
-    weight: 45
+    weight: 16
   - name: Contact
     url: contact/
-    weight: 50
+    weight: 17
