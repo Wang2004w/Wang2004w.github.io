@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: Wangs Lab
 date: 2025-09-12
 type: landing
 
