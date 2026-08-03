@@ -79,8 +79,8 @@ sections:
       filters:
         folders:
           - contact
-    design:
+    # design:
      # view: 🗃️card
-      columns: 1
+      # columns: 1
   
 ---
